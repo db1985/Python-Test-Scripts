@@ -1,8 +1,6 @@
-#Pre-requisites
 
-import re
-
-#Allow user to enter a times table (only up to table 12) and a number of rows to display.
+#Allow user to enter a times table (only up to table 12)
+# and a number of rows (5) to display.
 
 number = int(input("Display the multiplication table for:"))
 
